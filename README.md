@@ -6,9 +6,9 @@ built with :heartpulse:
 
 :lock: Signed using GPG
 
-[Jennifer.MinhyukPark.com](https://jennifer.minhyukpark.com "Is jennifer here?")
+[Jennifer.MinhyukPark.com](https://jennifer.minhyukpark.com "Is Jennifer here?")
 
 ## What is this
-Ever wondered where jennifer is?
+Ever wondered where Jennifer is?
 
 Visit the website and check it out!
